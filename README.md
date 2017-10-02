@@ -1,4 +1,4 @@
-A Vue.js project poc that could serve the youtaite/utaite community! :)
+A Vue.js project poc that could serve the youtaite/utaite community! :) (created as final project of Simplon.co)
 
 ## Build Setup
 
