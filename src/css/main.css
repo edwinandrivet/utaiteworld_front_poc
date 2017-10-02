@@ -1,0 +1,9 @@
+/** CSS Styles */
+
+.toolbar__title {
+  overflow: visible !important;
+}
+
+.content {
+  background-color: #f1f1f1 !important;
+}
